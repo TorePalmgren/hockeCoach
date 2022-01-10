@@ -1,0 +1,20 @@
+Andrei Vasilevskiy;Tampa Bay Lightning;0,917;9500000;680
+Connor Hellebuyck;Winnipeg Jets;0,922;6200000;70
+Jordan Binnington;St. Louis Blues;0,912;4400000;170
+Frederik Andersen;Toronto Maple Leafs;0,909;5000000;180
+Carey Price;Montreal Canadiens;0,909;10500000;900
+Marc-Andre Fleury;Vegas Golden Knights;0,905;7000000;980
+Tuukka Rask;Boston Bruins;0,929;7000000;660
+Braden Holtby;Washington Capitals;0,897;4300000;160
+Carter Hart;Philadelphia Flyers;0,914;730000;380
+David Rittich;Calgary Flames;0,907;2700000;0
+Jacob Markström;Vancouver Canucks;0,918;6000000;540
+Sergei Bobrovsky;Florida Panthers;0,900;10000000;0
+Mackenzie Blackwood;New Jersey Devils;0,915;2800000;430
+Pavel Francouz;Colorado Avalanche;0,923;2000000;0
+Ben Bishop;Dallas Stars;0,920;4900000;180
+Petr Mrazek;Carolina Hurricanes;0,905;3200000;60
+Tristan Jarry;Pittsburgh Penguins;0,921;3500000;410
+Alex Stalock;Minesota Wild;0,910;790000;110
+John Gibson;Anaheim Ducks;0,904;6400000;460
+Robin Lehner;Vegas Golden Knights;0,920;5000000;400

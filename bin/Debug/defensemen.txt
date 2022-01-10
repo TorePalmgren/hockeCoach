@@ -1,0 +1,20 @@
+John Carlson;Washington Capitals;108;55;8000000;580
+Roman Josi;Nashville Predators;108;52;9100000;470
+Victor Hedman;Tampa Bay Lightning;98;73;7900000;960
+Tony DeAngelo;New York Rangers;57;48;4800000;680
+Quinn Hughes;Vancouver Canucks;46;7;920000;870
+Alex Pietrangelo;St. Louis Blues;89;47;8800000;920
+Cale Makar;Colorado Avalanche;47;45;880000;920
+Torey Krug;Boston Bruins;48;36;6500000;0
+Ryan Suter;Minesota Wild;93;48;7500000;870
+Shea Theodore;Vegas Golden Knights;69;20;5200000;620
+Brent Burns;San Jose Sharks;115;72;8000000;670
+Rasmus Dahlin;Buffalo Sabres;51;72;930000;980
+Keith Yandle;Florida Panthers;51;18;6400000;120
+Kris Letang;Pittsburgh Penguins;91;101;7300000;290
+Adam Fox;New York Rangers;92;35;930000;270
+Aaron Ekblad;Florida Panthers;84;34;7500000;980
+Dougie Hamilton;Carolina Hurricanes;63;52;5800000;835
+Erik Karlsson;San Jose Sharks;74;26;11500000;740
+Tyson Barrie;Toronto Maple Leafs;76;47;3800000;280
+Mikhail Sergachev;Tampa Bay Lightning;99;106;4800000;840

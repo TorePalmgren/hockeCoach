@@ -1,0 +1,20 @@
+David Pastrnak;Boston Bruins;48;47;6700000;610
+Alex Ovechkin;Washington Capitals;48;19;9500000;980
+Auston Matthews;Toronto Maple Leafs;47;33;11600000;980
+Leon Draisaitl;Edmonton Oilers;43;67;8500000;940
+Mika Zibanejad;New York Rangers;41;75;5300000;890
+Nikita Kucherov;Tampa Bay Lightning;33;52;9500000;310
+Kyle Connor;Winnipeg Jets;38;35;7140000;710
+Sebastian Aho;Carolina Hurricanes;38;28;8500000;500
+Jack Eichel;Buffalo Sabres;36;42;10000000;960
+Nathan MacKinnon;Colorado Avalanche;35;58;6300000;980
+Connor McDavid;Edmonton Oilers;34;63;12500000;980
+Artemi Panarin;New York Rangers;32;63;11600000;0
+Brad Marchand;Boston Bruins;28;59;6100000;240
+Jonathan Huberdeau;Florida Panthers;23;55;5900000;940
+Patrick Kane;Chicago Blackhawks;33;51;10500000;980
+Mitch Marner;Toronto Maple Leafs;16;51;10900000;920
+Ryan O'Reilly;St. Louis Blues;12;49;7500000;520
+Evgeni Malkin;Pittsburgh Penguins;25;49;9500000;960
+Elias Pettersson;Vancouver Canucks;27;39;925000;900
+Steven Stamkos;Tampa Bay Lightning;29;37;8500000;980

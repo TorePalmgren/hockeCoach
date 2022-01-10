@@ -1,0 +1,15 @@
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\bin\Debug\hockeyCoach.exe.config
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\bin\Debug\hockeyCoach.exe
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\bin\Debug\hockeyCoach.pdb
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.Form1.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.Properties.Resources.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.csproj.GenerateResource.cache
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.csproj.CoreCompileInputs.cache
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.exe
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.pdb
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.teamBuilder.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.DManListEntry.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.simulateGame.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.csprojAssemblyReference.cache
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.GKListEntry.resources
+C:\Users\palmg\Desktop\c# grejor\hockeyCoach\hockeyCoach\obj\Debug\hockeyCoach.WingerListEntry.resources
